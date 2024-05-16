@@ -1,0 +1,54 @@
+Here are the keywords for each of the 10 papers you provided:
+以下是您提供的 10 篇论文中每篇论文的关键字：
+
+Machine Learning for Dengue Outbreak Prediction: Different Prominent Classifiers
+用于登革热疫情预测的机器学习：不同的突出分类器
+
+Keywords: Dengue fever, machine learning, classification, ensemble classifier, clinical symptoms​​.
+关键词：登革热，机器学习，分类，集成分类器，临床症状。
+Dengue Disease Dynamics are Modulated by the Combined Influences of Precipitation and Landscape: A Machine Learning Approach
+登革热疾病动态受降水和景观的综合影响的调节：一种机器学习方法
+
+Keywords: Recursive partitioning, random forest, dengue, combined influences, environmental factors​​.
+Ensemble Machine Learning Based Prediction of Dengue Disease with Performance and Accuracy Elevation Patterns
+
+Keywords: Bio-medical dataset prediction, machine learning, ensemble learning, prediction of dengue disease using ensemble machine learning​​.
+关键词：生物医学数据集预测，机器学习，集成学习，使用集成机器学习预测登革热疾病。
+Dengue Prediction using Machine Learning Algorithms
+
+Keywords: Dengue fever prediction, artificial intelligence, machine learning, clinical decision support system​​.
+关键词：登革热预测、人工智能、机器学习、临床决策支持系统。
+Disease Prediction using Machine Learning Algorithms
+使用机器学习算法进行疾病预测
+
+Keywords: Machine learning, data mining, decision tree classifier, random forest classifier, Naive Bayes classifier​​.
+关键词：机器学习，数据挖掘，决策树分类器，随机森林分类器，朴素贝叶斯分类器。
+Developing a Dengue Forecast Model Using Machine Learning: A Case Study in China
+
+Keywords: Dengue prediction, machine learning, forecasting, epidemiology, meteorological data​
+关键词：登革热预测、机器学习、预测、流行病学、气象数据【6​.
+关键词：登革热预测、机器学习、预测、流行病学、气象数据。
+Prediction of Dengue Outbreak in Selangor, Malaysia Using Machine Learning Techniques
+使用机器学习技术预测马来西亚雪兰莪州登革热疫情
+
+Keywords: Machine learning, dengue prediction, outbreak forecasting, support vector machines (SVM), Malaysia, Selangor, climate data, public health​​.
+关键词：机器学习，登革热预测，疫情预测，支持向量机（SVM），马来西亚，雪兰莪州，气候数据，公共卫生。
+Machine-Learning–Based Forecasting of Dengue Fever in Brazilian Cities Using Epidemiologic and Meteorological Variables
+基于机器学习的流行病学和气象学变量对巴西城市登革热进行预测
+
+Keywords: Dengue fever, machine learning, epidemiologic variables, meteorological variables, forecasting, Brazil​​.
+关键词：登革热，机器学习，流行病学变量，气象变量，预测，巴西。
+Prediction of Dengue Outbreak in Selangor, Malaysia Using Machine Learning Techniques
+使用机器学习技术预测马来西亚雪兰莪州登革热疫情
+
+Keywords: Machine learning, dengue prediction, outbreak forecasting, support vector machines (SVM), Malaysia, Selangor, climate data, public health​
+关键词： 机器学习， 登革热预测， 疫情预测， 支持向量机 （SVM）， 马来西亚， 雪兰莪州， 气候数据， 公共卫生​.
+关键词：机器学习，登革热预测，疫情预测，支持向量机（SVM），马来西亚，雪兰莪州，气候数据，公共卫生。
+Ensemble Machine Learning Based Prediction of Dengue Disease with Performance and Accuracy Elevation Patterns
+基于集成机器学习的登革热疾病预测，具有性能和准确性高程模式
+
+Keywords: Bio-medical dataset prediction, machine learning, ensemble learning, prediction of dengue disease using ensemble machine learning​
+关键词：生物医学数据集预测，机器学习，集成学习，使用集成机预测登革热疾病​.
+关键词：生物医学数据集预测，机器学习，集成学习，使用集成机器学习预测登革热疾病。
+These keywords summarize the central themes and methodologies used in each study.
+这些关键词总结了每项研究中使用的中心主题和方法。
